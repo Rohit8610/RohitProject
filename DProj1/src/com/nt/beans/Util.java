@@ -9,6 +9,7 @@ public Date getDAte()
 }
 public void m1()
 {
+
 	System.out.println("methode m1():1234");
     
 }
